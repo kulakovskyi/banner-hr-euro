@@ -1,1 +1,8 @@
-"use strict";var mainPage=document.querySelector(".fav__page");setTimeout(function(){return mainPage.classList.add("overflow")},1e3);
+"use strict";
+
+var mainPage = document.querySelector('.fav__page');
+setTimeout(function () {
+  return mainPage.classList.add('overflow');
+}, 1000);
+"use strict";
+//# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIm1haW4uanMiLCJzZWNvbmQuanMiXSwibmFtZXMiOlsibWFpblBhZ2UiLCJkb2N1bWVudCIsInF1ZXJ5U2VsZWN0b3IiLCJzZXRUaW1lb3V0IiwiY2xhc3NMaXN0IiwiYWRkIl0sIm1hcHBpbmdzIjoiOztBQUFBLElBQUlBLFFBQVEsR0FBR0MsUUFBUSxDQUFDQyxhQUFULENBQXVCLFlBQXZCLENBQWY7QUFDQUMsVUFBVSxDQUFDO0VBQUEsT0FBTUgsUUFBUSxDQUFDSSxTQUFULENBQW1CQyxHQUFuQixDQUF1QixVQUF2QixDQUFOO0FBQUEsQ0FBRCxFQUEyQyxJQUEzQyxDQUFWO0FDREEiLCJmaWxlIjoibWFpbi5qcyIsInNvdXJjZXNDb250ZW50IjpbImxldCBtYWluUGFnZSA9IGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoJy5mYXZfX3BhZ2UnKTtcbnNldFRpbWVvdXQoKCkgPT4gbWFpblBhZ2UuY2xhc3NMaXN0LmFkZCgnb3ZlcmZsb3cnKSwgMTAwMCk7XG4iLCIiXX0=
