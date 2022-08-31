@@ -1,0 +1,1 @@
+"use strict";var mainPage=document.querySelector(".fav__page");setTimeout(function(){return mainPage.classList.add("overflow")},1e3);
